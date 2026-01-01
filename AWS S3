@@ -1,0 +1,11 @@
+AWS S3 (Object Storage)
+
+This document explains how I created and managed S3 buckets during my builder lab.
+
+what i did in  Amazon S3
+ - Created and managed S3 buckets
+ - Understood object storage concepts
+ - Configured bucket permissions and policies
+ - Enabled and tested public/private access
+ - Hosted a static website using S3
+ - Explored versioning and lifecycle management
