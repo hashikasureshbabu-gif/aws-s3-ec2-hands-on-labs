@@ -1,0 +1,4 @@
+Amazon EC2
+- Launched EC2 instances with appropriate instance types
+- Configured Security Groups for controlled access
+- Attached  S3 storage 
